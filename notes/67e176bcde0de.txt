@@ -1,0 +1,5 @@
+shoe
+bag
+cloth
+yam
+egg
